@@ -1,17 +1,17 @@
 {
-  "name": "graphql-validation",
+  "name": "graphql-codegen-validation",
   "type": "module",
   "version": "0.18.1",
   "packageManager": "pnpm@10.24.0",
   "description": "GraphQL Code Generator plugin to generate form validation schema from your GraphQL schema",
   "respository": {
     "type": "git",
-    "url": "https://github.com/asmgit/graphql-codegen-validation.git"
+    "url": "https://github.com/asmgit/graphql-validation.git"
   },
   "author": "codehex",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/asmgit/graphql-codegen-validation/issues"
+    "url": "https://github.com/asmgit/graphql-validation/issues"
   },
   "keywords": [
     "gql",
